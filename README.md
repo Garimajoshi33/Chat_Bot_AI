@@ -32,7 +32,3 @@ Chatbot AI is an intelligent conversational agent designed to simulate human-lik
 - Python 3.6+ installed
 - `pip` (Python package manager)
 
-### Clone the repository
-```bash
-git clone https://github.com/your-username/chatbot-ai.git
-cd chatbot-ai
